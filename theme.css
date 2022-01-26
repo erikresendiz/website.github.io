@@ -2,19 +2,26 @@ body {
     background-color: #4c566a;
     margin: 0%;
   }
-  p {
+  .para {
     color: #eceff4;
+    font-size: 16px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 1%;
+    margin-bottom: 10%;
+    margin-right: 15%;
+    margin-left: 15%;
   }
   h1 {
+    margin-top: 5%;
     text-align: center;
     font-family: Verdana,sans-serif, Arial;
     color: #eceff4;
   }
   .center {
     text-align: center;
-
   }
   .bottom {
+    color: #eceff4;
     font-size: x-small;
     font-family: Monaco, Lucida Console, Courier New;
     position: fixed;
@@ -24,8 +31,10 @@ body {
   }
 
   .name{
+    color: #eceff4;
     font-family: Monaco, Courier New;
   }
+
 /* Top Bar Settings!*/
   .topnav {
     overflow: hidden;
