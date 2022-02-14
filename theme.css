@@ -117,6 +117,11 @@ a.active *,
   width: 100%;
 }
 
+.name{
+  color: #bd93f9;
+  font-family: Monaco, Courier New;
+}
+
 /* Top Bar Settings!*/
   .topnav {
     overflow: hidden;
