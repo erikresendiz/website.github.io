@@ -2,7 +2,7 @@
 html,
 body {
 	background-image: none !important;
-	background-color: rgba(40, 42, 54, 1) !important;
+	background-color: #44475a !important;
 }
 
 body * {
@@ -125,7 +125,7 @@ a.active *,
 /* Top Bar Settings!*/
   .topnav {
     overflow: hidden;
-    background-color: #2e3440;
+    background-color: #282a36;
   }
   
   .topnav a {
